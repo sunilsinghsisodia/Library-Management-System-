@@ -1,5 +1,5 @@
 # Library ERP – Library Management System
-
+LIve LINK -https://erplibarysystem.netlify.app/
 ## Overview
 This project is a **Library Management System (LMS)** web application developed to simulate basic library operations such as searching books, issuing books, returning books, and managing memberships. The system supports role-based access so that different users have different permissions within the application.
 
